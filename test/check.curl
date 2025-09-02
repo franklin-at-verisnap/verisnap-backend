@@ -1,0 +1,1 @@
+curl -i -X POST -H "Content-Type: application/json" -d @test/check.json http://localhost:9000/check

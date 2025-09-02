@@ -1,0 +1,31 @@
+{
+    "barometer": 101.83735656738281,
+    "magnetometer": "{\"x\"=\"-15.567352294921875\",\"x\"=\"-31.853744506835938\",\"z\"=\"-113.96002197265625\"}",
+    "acceletometer": "{\"x\"=\"-0.0955810546875\",\"x\"=\"-0.720489501953125\",\"z\"=\"-0.61383056640625\"}",
+    "{TIFF}": {
+        "Orientation": 6
+    },
+    "gyroscope": "{\"x\"=\"-0.1232585534453392\",\"x\"=\"0.1330038607120514\",\"z\"=\"0.023967649787664413\"}",
+    "PixelHeight": 3024,
+    "gps": "{\"altitude\":2.2926913565024734,\"floor\":0,\"speed\":0.56999999284744263,\"lat\":25.555142853424279,\"timestamp\":705899617.03088605,\"heading\":-1,\"long\":-80.358780752942295}",
+    "Depth": 8,
+    "PixelWidth": 4032,
+    "ProfileName": "Display P3",
+    "{Exif}": {
+        "PixelYDimension": 3024,
+        "ColorSpace": 65535,
+        "PixelXDimension": 4032
+    },
+    "Orientation": 6,
+    "ColorModel": "RGB",
+    "{JFIF}": {
+        "XDensity": 72,
+        "YDensity": 72,
+        "JFIFVersion": [
+            1,
+            0,
+            1
+        ],
+        "DensityUnit": 0
+    }
+}
