@@ -53,6 +53,9 @@ temp/
 *.tmp
 *.temp
 
+# Sample artifacts not needed in repo
+uploaded_image.jpg
+
 # Model files (large)
 models/*.joblib
 models/*.pkl
